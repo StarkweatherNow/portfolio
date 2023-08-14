@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'starkweather'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E5D04F08510647969DFA002639468558 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5BA3565D68F84B8E9696E3275AE8E429 }}
           package: '*.jar'
