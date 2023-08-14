@@ -11,7 +11,7 @@
 
   <name>Brandon Starkweather Portfolio</name>
   <!-- FIXME change it to the project's website -->
-  <url>https://www.brandonstarkweather.com</url>
+  <url>https://starkweather.azurewebsites.net</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
